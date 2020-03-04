@@ -225,7 +225,7 @@
 		<codehaus.woodstox.stax2api.version>3.1.4</codehaus.woodstox.stax2api.version>
 		<fasterxml.woodstox.version>5.0.3</fasterxml.woodstox.version>
 		<fasterxml.jackson.version>2.9.5</fasterxml.jackson.version>
-		<fasterxml.jackson.databind.version>2.9.5</fasterxml.jackson.databind.version>
+		<fasterxml.jackson.databind.version>2.10.3</fasterxml.jackson.databind.version>
     </properties>
     <profiles>
         <profile>
